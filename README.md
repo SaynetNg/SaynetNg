@@ -38,13 +38,6 @@ Saynet.ng Technology And Software Solutions is a leading technology and software
    - Fintech Solutions
    - and more...
 
-## Open Source Contributions
-
-Explore our open-source projects that showcase our commitment to community-driven development.
-
-- [Project A](https://madataigeneralenterprises.com)
-- [Project B](https://ongoing.project)
-
 ## Connect With Us
 
 📧 **Email:** saynet.ng@gmail.com  

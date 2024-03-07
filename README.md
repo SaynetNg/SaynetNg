@@ -53,9 +53,9 @@ Explore our open-source projects that showcase our commitment to community-drive
 
 ## Follow Us on Social Media
 
-📸 **Instagram:** [TripleHVentures](https://instagram.com/saynet.ng?igshid=OGQ5ZDc2ODK2ZA==)  
-🐦 **Twitter:** [TripleHVentures](https://x.com/SaynetNg?s=09)  
-📝 **Medium:** [TripleHVentures](https://saynetng.medium.com)
+📸 **Instagram:** [Saynet.ng](https://instagram.com/saynet.ng?igshid=OGQ5ZDc2ODK2ZA==)  
+🐦 **Twitter:** [Saynet.ng](https://x.com/SaynetNg?s=09)  
+📝 **Medium:** [SAynet.ng](https://saynetng.medium.com)
 
 We are excited about the possibilities technology brings, and we look forward to collaborating with you on your next project!
 

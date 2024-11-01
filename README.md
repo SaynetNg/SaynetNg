@@ -1,4 +1,4 @@
-# Saynet.ng Technology And Software Solutions
+# SAYNET.NG TECHNOLOGY AND SOFTWARE SOLUTIONS
 
 Welcome to Saynet.ng Technology And Software Solutions - Your Hub for Innovative Tech Solutions!
 

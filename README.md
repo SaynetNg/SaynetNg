@@ -42,7 +42,7 @@ Saynet.ng Technology And Software Solutions is a leading technology and software
 
 📧 **Email:** saynet.ng@gmail.com  
 🌐 **Website:** [www.saynet.ng](https://www.saynet.ng)  
-📱 **Connect on LinkedIn:** [Saynet.ng Technology And Software Solutions](https://www.linkedin.com/company/SaynetNg)
+📱 **Connect on LinkedIn:** [Saynet.ng Technology And Software Solutions](https://www.linkedin.com/company/saynet-ng-technology-and-softwares-solutions)
 
 ## Follow Us on Social Media
 

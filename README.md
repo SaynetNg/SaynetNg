@@ -1,4 +1,6 @@
-# SAYNET.NG TECHNOLOGY AND SOFTWARE SOLUTIONS
+# SAYNET.NG INNOVATIONS 
+
+NEXT GEN OF TECHNOLOGY AND SOFTWARE SOLUTIONS
 
 Welcome to Saynet.ng Technology And Software Solutions - Your Hub for Innovative Tech Solutions!
 
@@ -41,8 +43,7 @@ Saynet.ng Technology And Software Solutions is a leading technology and software
 ## Connect With Us
 
 📧 **Email:** saynet.ng@gmail.com  
-🌐 **Website:** [www.saynet.ng](https://www.saynet.ng)  
-📱 **Connect on LinkedIn:** [Saynet.ng Technology And Software Solutions](https://www.linkedin.com/company/saynet-ng-technology-and-softwares-solutions)
+🌐 **Website:** [www.saynet.ng](https://saynetng.netlify.app) 
 
 ## Follow Us on Social Media
 

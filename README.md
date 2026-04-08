@@ -1,6 +1,6 @@
 # SAYNET.NG INNOVATIONS 
 
-NEXT GEN OF TECHNOLOGY AND SOFTWARE SOLUTIONS
+**NEXT GEN OF TECHNOLOGY AND SOFTWARE SOLUTIONS**
 
 Welcome to Saynet.ng Technology And Software Solutions - Your Hub for Innovative Tech Solutions!
 
@@ -49,7 +49,7 @@ Saynet.ng Technology And Software Solutions is a leading technology and software
 
 📸 **Instagram:** [Saynet.ng](https://instagram.com/saynet.ng?igshid=OGQ5ZDc2ODK2ZA==)  
 🐦 **Twitter:** [Saynet.ng](https://x.com/SaynetNg?s=09)  
-📝 **Medium:** [SAynet.ng](https://saynetng.medium.com)
+📝 **Medium:** [Saynet.ng](https://saynetng.medium.com)
 
 We are excited about the possibilities technology brings, and we look forward to collaborating with you on your next project!
 

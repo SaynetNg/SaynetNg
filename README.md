@@ -1,56 +1,95 @@
-# SAYNET.NG INNOVATIONS 
+# SAYNET.NG INNOVATIONS
 
-**NEXT GEN OF TECHNOLOGY AND SOFTWARE SOLUTIONS**
+**Secure Technology. Intelligent Solutions. A Stronger Digital Africa.**
 
-Welcome to Saynet.ng Technology And Software Solutions - Your Hub for Innovative Tech Solutions!
+Welcome to SAYNET.NG INNOVATIONS — your hub for innovative technology and software solutions across Nigeria and Africa.
 
 🚀 **About Us:**
-Saynet.ng Technology And Software Solutions is a leading technology and software solutions company committed to delivering cutting-edge solutions. With a focus on innovation, quality, and customer satisfaction, we strive to empower businesses and individuals through transformative technology.
+SAYNET.NG INNOVATIONS is a technology and software solutions company committed to delivering cutting-edge solutions. With a focus on security, innovation, quality and customer satisfaction, we empower businesses and individuals through transformative technology.
 
 ## Key Services
 
-1. **Software Development:**
+1. **Cybersecurity & Digital Defense**
+   - Cybersecurity Assessments
+   - Vulnerability Assessments & Authorized Penetration Testing
+   - Web, Mobile, Network & API Security
+   - Security Hardening, Incident Response & Cyber Defense
+   - Security Awareness Training
+
+2. **Software & Digital Products**
+   - Web and Mobile Application Development
+   - Enterprise Software & Business Management Systems
+   - Customer Portals, Dashboards, APIs & Cloud Applications
    - Custom Software Solutions
-   - Web and Mobile App Development
-   - Enterprise Software Development
 
-2. **Graphics Design:**
-   - Creative Design Solutions
-   - Branding and Logo Design
-   - UI/UX Design
+3. **AI & Intelligent Automation**
+   - AI Assistants & Chatbots
+   - Business & Workflow Automation
+   - Intelligent Search, Document Processing & AI Analytics
+   - Computer Vision & Custom AI Applications
 
-3. **Cybersecurity:**
-   - Security Consulting
-   - Threat Analysis and Prevention
-   - Cybersecurity Solutions
+4. **Home Security Solutions**
+   - CCTV Installation & IP Camera Systems
+   - NVR/DVR, Remote Monitoring & Access Control
+   - Perimeter Monitoring & Security System Integration
+   - Site Security Assessment, Maintenance & Upgrades
 
-4. **Product Engineering:**
-   - Product Design and Development
-   - Prototyping and MVP Development
-   - Product Enhancement and Maintenance
+5. **Drone & Aerial Technology**
+   - Aerial Inspection & Mapping
+   - Infrastructure, Construction & Agricultural Monitoring
+   - Property Documentation, Aerial Photography & Video
+   - Operational Support
 
-5. **Consulting Services:**
-   - Technology Consulting
-   - Software Architecture Design
-   - IT Strategy Planning
+6. **Technology Consulting & Digital Transformation**
+   - IT & Cybersecurity Consulting
+   - Technology Strategy & Digital Transformation Roadmaps
+   - IT Infrastructure & Cloud Strategy
+   - Software Architecture & Cyber Risk Assessment
 
-6. **Industry Solutions:**
-   - E-Commerce Solutions
-   - HealthTech and MedTech
-   - Fintech Solutions
-   - and more...
+## Industries We Serve
+
+- Financial Services
+- Government & Public Sector
+- Education
+- Healthcare
+- SMEs & Startups
+- Energy & Infrastructure
+- Defense & Security Organizations
+- Telecommunications & Media
+- NGOs & International Organizations
+
+## Featured Projects
+
+- **NaijaAlert** — Public safety platform — [naijalert.netlify.app](https://naijalert.netlify.app)
+- **CarExchange** — Premium car marketplace — [carexchange.netlify.app](https://carexchange.netlify.app)
+- **Nigeria Cyber Defence Network** — Threat-intelligence platform — [cyberdefenceng.netlify.app](https://cyberdefenceng.netlify.app)
+- **Exotic Bakery** — Cakes and pastries website — [exotic-bakery.netlify.app](https://exotic-bakery.netlify.app)
+- **Kado Estate Jumu'at Mosque** — Community portal — [kadoestatejumuatmasjid.com](https://kadoestatejumuatmasjid.com)
+- **SayPOS** — Point-of-sale system — [saynetpos.netlify.app](https://saynetpos.netlify.app)
+- **SmartGuard** — Home security solution — [saynetsecurity.netlify.app](https://saynetsecurity.netlify.app)
+
+## Website Pages
+
+- [Home](https://www.saynet.ng)
+- [About](about.html)
+- [Industries](industries.html)
+- [Cybersecurity Awareness](cyber-awareness.html)
+- [Training](training.html)
+- [Privacy Policy](privacy-policy.html)
 
 ## Connect With Us
 
-📧 **Email:** saynet.ng@gmail.com  
-🌐 **Website:** [www.saynet.ng](https://saynetng.netlify.app) 
+📧 **Email:** saynet.ng@gmail.com
+🌐 **Website:** [www.saynet.ng](https://www.saynet.ng)
+💬 **WhatsApp:** [+234 704 750 7926](https://wa.me/2347047507926)
 
 ## Follow Us on Social Media
 
-📸 **Instagram:** [Saynet.ng](https://instagram.com/saynet.ng?igshid=OGQ5ZDc2ODK2ZA==)  
-🐦 **Twitter:** [Saynet.ng](https://x.com/SaynetNg?s=09)  
-📝 **Medium:** [Saynet.ng](https://saynetng.medium.com)
+🐦 **X (Twitter):** [SaynetNg](https://x.com/SaynetNg)
+📸 **Instagram:** [saynet.ng](https://instagram.com/saynet.ng)
+📘 **Facebook:** [saynetng](https://web.facebook.com/saynetng-61554696685780/)
+💻 **GitHub:** [SaynetNg](https://github.com/SaynetNg)
 
 We are excited about the possibilities technology brings, and we look forward to collaborating with you on your next project!
 
-**Innovate with Saynet.ng Technology And Software Solutions - Where Ideas Come to Life!**
+**Innovate with SAYNET.NG INNOVATIONS — Where Ideas Come to Life!**

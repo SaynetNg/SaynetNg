@@ -4,7 +4,7 @@
 
 Welcome to SAYNET.NG INNOVATIONS — your hub for innovative technology and software solutions across Nigeria and Africa.
 
-🚀 **About Us:**
+ **About Us:**
 SAYNET.NG INNOVATIONS is a technology and software solutions company committed to delivering cutting-edge solutions. With a focus on security, innovation, quality and customer satisfaction, we empower businesses and individuals through transformative technology.
 
 ## Key Services
@@ -60,13 +60,13 @@ SAYNET.NG INNOVATIONS is a technology and software solutions company committed t
 
 ## Featured Projects
 
-- **NaijaAlert** — Public safety platform — [naijalert.netlify.app](https://naijalert.netlify.app)
-- **CarExchange** — Premium car marketplace — [carexchange.netlify.app](https://carexchange.netlify.app)
-- **Nigeria Cyber Defence Network** — Threat-intelligence platform — [cyberdefenceng.netlify.app](https://cyberdefenceng.netlify.app)
-- **Exotic Bakery** — Cakes and pastries website — [exotic-bakery.netlify.app](https://exotic-bakery.netlify.app)
-- **Kado Estate Jumu'at Mosque** — Community portal — [kadoestatejumuatmasjid.com](https://kadoestatejumuatmasjid.com)
-- **SayPOS** — Point-of-sale system — [saynetpos.netlify.app](https://saynetpos.netlify.app)
-- **SmartGuard** — Home security solution — [saynetsecurity.netlify.app](https://saynetsecurity.netlify.app)
+- **NaijaAlert** — Public safety platform
+- **CarExchange** — Premium car marketplace
+- **Nigeria Cyber Defence Network** — Threat-intelligence platform
+- **Exotic Bakery** — Cakes and pastries website
+- **Kado Estate Jumu'at Mosque** — Community portal
+- **SayPOS** — Point-of-sale system
+- **SmartGuard** — Home security solution
 
 ## Website Pages
 

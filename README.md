@@ -61,10 +61,9 @@ SAYNET.NG INNOVATIONS is a technology and software solutions company committed t
 ## Featured Projects
 
 - **NaijaAlert** — Public safety platform
+- **Saypass** — Password Manager
 - **CarExchange** — Premium car marketplace
 - **Nigeria Cyber Defence Network** — Threat-intelligence platform
-- **Exotic Bakery** — Cakes and pastries website
-- **Kado Estate Jumu'at Mosque** — Community portal
 - **SayPOS** — Point-of-sale system
 - **SmartGuard** — Home security solution
 
@@ -81,13 +80,10 @@ SAYNET.NG INNOVATIONS is a technology and software solutions company committed t
 
 📧 **Email:** saynet.ng@gmail.com
 🌐 **Website:** [www.saynet.ng](https://www.saynet.ng)
-💬 **WhatsApp:** [+234 704 750 7926](https://wa.me/2347047507926)
 
 ## Follow Us on Social Media
 
 🐦 **X (Twitter):** [SaynetNg](https://x.com/SaynetNg)
-📸 **Instagram:** [saynet.ng](https://instagram.com/saynet.ng)
-📘 **Facebook:** [saynetng](https://web.facebook.com/saynetng-61554696685780/)
 💻 **GitHub:** [SaynetNg](https://github.com/SaynetNg)
 
 We are excited about the possibilities technology brings, and we look forward to collaborating with you on your next project!
